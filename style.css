@@ -1,0 +1,20 @@
+h1{
+    border: 2px solid;
+    background-color:orange;
+    border-radius: 25px;
+    width: 360px;
+    
+
+}
+p{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+
+p code{ color: salmon;}
+
+.colorazul{
+    background-color: orchid;
+    width: 220px;
+    align: center
+    
+}
+
